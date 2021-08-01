@@ -1,0 +1,21 @@
+[submodule "gsonkgadapter-kg"]
+	path = gsonkgadapter-kg
+	url = https://github.com/KutuGondrong/gsonkgadapter-kg.git
+[submodule "httpclient-kg"]
+	path = httpclient-kg
+	url = https://github.com/KutuGondrong/httpclient-kg
+[submodule "json-kg"]
+	path = json-kg
+	url = https://github.com/KutuGondrong/json-kg.git
+[submodule "jsonkgadapter-kg"]
+	path = jsonkgadapter-kg
+	url = https://github.com/KutuGondrong/jsonkgadapter-kg.git
+[submodule "network-kg"]
+	path = network-kg
+	url = https://github.com/KutuGondrong/network-kg.git
+[submodule "networkadapter-kg"]
+	path = networkadapter-kg
+	url = https://github.com/KutuGondrong/networkadapter-kg.git
+[submodule "example-app"]
+	path = example-app
+	url = https://github.com/KutuGondrong/example-app.git
