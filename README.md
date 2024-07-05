@@ -155,6 +155,6 @@ Converters Adapter can be added to support other types.
 - [GSON](https://github.com/KutuGondrong/gsonkgadapter)
 
 ## Website
-[kutugondrong.com](https://kutugondrong.com/)
+[https://blog.istimewaa.com/](https://blog.istimewaa.com/)
 
  
